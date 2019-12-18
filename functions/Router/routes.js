@@ -1,5 +1,4 @@
 const route=require('express').Router();
-var app=require('express')();
 
  // All requied file will be configured below.
  
