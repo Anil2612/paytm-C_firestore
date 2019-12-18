@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "fir-node-1e514",
+    "staging": "fir-node-1e514"
+  }
+}
